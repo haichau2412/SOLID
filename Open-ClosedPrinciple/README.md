@@ -1,0 +1,1 @@
+Một software system luôn ủng hộ việc mở rộng và hạn chế việc chỉnh sửa. Nghĩa là một software system nên cho phép thay đổi cách hoạt động bằng việc thêm vào code mới thay vì sửa những code cũ.
