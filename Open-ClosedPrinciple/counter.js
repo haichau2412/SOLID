@@ -10,14 +10,19 @@ function counterModifier() {
         subByValue: (value) => {
             counter -= value;
         },
-        currentValue: ()=>{
+        currentValue: () => {
             return counter;
         }
     }
 }
 
+let counter = counterModifier();
 
-
+counter.addBy2 = () => {
+    counter.addByValue(2)
+};
+counter.addBy2()
+console.log(counter.currentValue());
 
 
 
