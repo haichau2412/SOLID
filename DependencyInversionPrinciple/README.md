@@ -1,0 +1,3 @@
+Nguyên tắc D: Các tương tác giữa các đối tượng nên dựa trên những quy định đã  được trừu tượng hóa, chứ không nên phụ thuộc vào cách mà những quy định đó được triển khai như thế nào. Ví dụ: Khi ta yêu cầu mọi người im lặng, ta chỉ quan tâm đến việc mọi người không gây ra tiếng động ta sẽ nói "Giữ im lặng", chứ không cần phải là "Anh A ngưng nói chuyện, chị B ngưng gõ vào bàn".
+
+Trong code em ví dụ một Object là cửa, cho phép vật thể small hoặc medium được đi qua, một function đại diện cho một interface kiểm tra xem vật thể này di qua được hay không. Cửa chỉ cho phép vật di qua khi phù hợp size và khi cửa đang mở, không quan tâm vật thể này là con người hay đồ dùng, chỉ cần đáp ứng 2 điều khiện trên là được.

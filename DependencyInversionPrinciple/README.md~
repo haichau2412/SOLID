@@ -1,0 +1,2 @@
+Nguyên tắc D: Các tương tác giữa các đối tượng nên dựa trên những quy định đã  được trừu tượng hóa, chứ không nên phụ thuộc vào cách mà những quy định đó được triển khai như thế nào. Ví dụ: Khi ta yêu cầu mọi người im lặng, ta chỉ quan tâm đến việc mọi người không gây ra tiếng động ta sẽ nói "Giữ im lặng", chứ không cần phải là "Anh A ngưng nói chuyện, chị B ngưng gõ vào bàn".
+
