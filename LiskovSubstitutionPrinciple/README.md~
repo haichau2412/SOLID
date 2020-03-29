@@ -1,0 +1,1 @@
+Nguyên tắc L: Khi ta kế thừa prototype của object hay kế thừa từ class, những phương thức của đối tượng được kế thừa nếu được chỉnh sửa sẽ luôn tuân thủ theo cách chúng được sử dụng ở đối tượng gốc ban đầu. 
