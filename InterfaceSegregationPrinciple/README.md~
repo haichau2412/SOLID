@@ -1,0 +1,1 @@
+Nguyên tắc I : tránh việc phải phụ thuộc các module, function hay bất cứ thứ gì mà nó không cần sử dụng tới. Thay vào đó ta sẽ tách riêng thành các module, function nhỏ hơn vào các mục đích riêng biệt để tránh sự phụ thuộc này.
